@@ -13,7 +13,8 @@ and run it with
 **#** are walls   
     
 I included a few levels inside the well named *levels*  folder, so try them !   
-You can even create your own level as long as it only contains ' ', '#', 'X', 'O', 'P' and there is as much 'X' and 'O'
-    
+You can even create your own level as long as it only contains ' ', '#', 'X', 'O', 'P' and there is as much 'X' and 'O'     
+If you ever get stuck, use CTRL + C to exit the game    
+
 There is also the  *bonus*  folder with it own  *Makefile*  to compile a ~~buggy~~ **graphic** version of the game !    
 It main purpose was to try to create a scrolling effect between differents screens. Please don't jugde it too hardly :)   
