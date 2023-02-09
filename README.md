@@ -11,7 +11,8 @@ and run it with
 **X** are crates    
 **O** are goals to put crates in    
 **#** are walls   
-    
+Move the player with the arrows keys !    
+        
 I included a few levels inside the well named *levels*  folder, so try them !   
 You can even create your own level as long as it only contains ' ', '#', 'X', 'O', 'P' and there is as much 'X' and 'O'     
 If you ever get stuck, use CTRL + C to exit the game    
